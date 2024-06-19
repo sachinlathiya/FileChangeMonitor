@@ -1,0 +1,167 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Resharper and Rider files
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore build artifacts
+*.dll
+*.pdb
+*.exe
+
+# Ignore NuGet executable files
+*.nupkg
+*.pupkg
+
+# Ignore file based dependencies
+*.dll.config
+
+# Ignore Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+
+# Ignore build results of Python projects
+*.pyproj.user
+
+# Ignore Azure Web App publish settings
+*.PublishSettings
+
+# Ignore RIA/Silverlight projects
+Generated_Code/
+
+# Ignore all Visual Studio cache files
+*.cache
+*.vspscc
+*.vsp
+*.psess
+*.vssscc
+*.vspscc
+
+# Ignore GitHub specific files
+.github/
+
+# Ignore code coverage results
+*.opencover.xml
+*.dotcover
+
+# Ignore ReSharper .sln.dotsettings.user files
+*.sln.dotsettings.user
+
+# Ignore Rider files
+.idea/
+
+# Ignore Markdown files created by VS Code
+.vscode/
+
+# Ignore files used for local application settings
+*.localhistory/
+
+# Ignore MonoDevelop files
+*.userprefs
+
+# Ignore Xamarin specific files
+*.userprefs
+
+# Ignore SQLite database files
+*.sqlite
+
+# Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ignore macOS file system metadata files
+.DS_Store
+
+# Ignore build logs
+*.log
+
+# Ignore npm package files
+npm-debug.log*
+
+# Ignore yarn files
+yarn-error.log*
+
+# Ignore Node.js generated files
+node_modules/
+
+# Ignore Visual Studio LightSwitch build output
+_Pvt_Extensions/
+
+# Ignore Android build files
+*.apk
+*.ap_
+
+# Ignore iOS build files
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Ignore Java build files
+*.class
+
+# Ignore Gradle build files
+*.gradle
+
+# Ignore Maven build files
+target/
+
+# Ignore IntelliJ project files
+*.iml
+*.ipr
+*.iws
+
+# Ignore Eclipse project files
+*.classpath
+*.project
+*.settings/
+
+# Ignore Code Metrics Results
+*.metrics
+
+# Ignore Microsoft Fakes
+FakesAssemblies/
+
+# Ignore TypeScript cache
+*.tsbuildinfo
+
+# Ignore Flutter build directory
+build/
+
+# Ignore Dotnet core CLI tools
+.dotnet/
+
+# Ignore Resharper .NET Core .sln.dotsettings.user files
+*.sln.dotsettings.user
+
+# Ignore Resharper .NET Core .csproj.dotsettings.user files
+*.csproj.dotsettings.user
+
+# Ignore Rider .NET Core .sln.dotsettings.user files
+*.sln.dotsettings.user
+
+# Ignore Rider .NET Core .csproj.dotsettings.user files
+*.csproj.dotsettings.user
+
+# Ignore Coveralls coverage reporting tool for .NET Core
+coverage/
+
+# Ignore temporary Global files
+.vscode/
+.vs/
+
+# End of Visual Studio 2019 section
